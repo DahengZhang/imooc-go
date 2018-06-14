@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"moxuan.com/imooc/4-2"
+	".."
 )
 
 func main() {
